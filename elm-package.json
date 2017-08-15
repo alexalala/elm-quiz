@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
-    "summary": "helpful summary of your project, less than 80 characters",
-    "repository": "https://github.com/user/project.git",
+    "summary": "Pub Quiz style web app written in elm.",
+    "repository": "https://github.com/alexalala/elm-quiz.git",
     "license": "BSD3",
     "source-directories": [
         "."
